@@ -27,7 +27,7 @@ Note: See [this document](./docs/reports/TranslationCompleteness.md) for locale 
 
 ## Contributing
 
-Read the [Contribution Guidelines](./docs/CONTRIBUTING.md) and [Translation Notes](./docs/TranslationNotes.md). Preserve source text, stable IDs and source locations; character names use romaji. Community JSON can be converted to and from the tool's Translator++ `.trans` projects
+Read the [Contribution Guidelines](./docs/CONTRIBUTING.md) and [Translation Notes](./docs/TranslationNotes.md).
 
 ## Game Author
 

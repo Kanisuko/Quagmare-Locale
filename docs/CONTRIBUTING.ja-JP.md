@@ -1,4 +1,4 @@
-# 貢献ガイド
+# コントリビューションガイド
 
 [English](./CONTRIBUTING.md) | [简体中文](./CONTRIBUTING.zh-CN.md) | **日本語**
 

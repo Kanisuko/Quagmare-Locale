@@ -27,7 +27,7 @@
 
 ## 贡献
 
-阅读[贡献指南](./docs/CONTRIBUTING.zh-CN.md)与[翻译注意事项](./docs/TranslationNotes.zh-CN.md)。保留原文、稳定ID与来源位置；角色姓名使用罗马音。社区 JSON 可与提取器的 Translator++ `.trans` 项目互转。
+阅读[贡献指南](./docs/CONTRIBUTING.zh-CN.md)与[翻译注意事项](./docs/TranslationNotes.zh-CN.md)
 
 ## 游戏作者
 

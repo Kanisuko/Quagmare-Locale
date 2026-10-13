@@ -27,7 +27,7 @@
 
 ## 貢献
 
-[貢献ガイド](./docs/CONTRIBUTING.ja-JP.md)と[翻訳上の注意](./docs/TranslationNotes.ja-JP.md)を参照してください。原文、固定 ID、参照位置を保持し、キャラクター名にはローマ字を使用します。コミュニティ JSON とツールの Translator++ `.trans` プロジェクトは相互変換できます
+[貢献ガイド](./docs/CONTRIBUTING.ja-JP.md)と[翻訳上の注意](./docs/TranslationNotes.ja-JP.md)を参照してください
 
 ## ゲーム作者
 
